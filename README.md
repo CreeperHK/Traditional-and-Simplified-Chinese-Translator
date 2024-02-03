@@ -16,6 +16,11 @@ Please install the following library brfore run the code
 
 Big thanks for those library maker.
 
+Only need to download the Chinese.py file, and use Python or CMD to run it.
+
+Do not use the Visual studio code terminal, lots of bug...
+
+
 # How to use
 Input simplified Chinese text into the first input box and click the convert button
 
@@ -42,6 +47,10 @@ Yes. that's all
 * tkinter
 
 非常感謝以上程式庫製作者。
+
+只需下載Chinese.py文件，並使用 Python 或 CMD 來運行它。
+
+建議別用 Visual Studio 裡面的執行，我試過了，沒有一次是成功執行的...
 
 # 如何使用
 
